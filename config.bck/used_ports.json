@@ -7,17 +7,17 @@
             "port_speed": "100",
             "port_vlan_id": "1",
             "port_mac": "01:01:01:01:01:01",
-            "port_asign": "lan",
-            "port_local": 40001
+            "port_asign": "wlan",
+            "port_local": ""
         },
         "port_2": {
             "port_number": 2,
-            "port_status": "UP",
+            "port_status": "DOWN",
             "port_type": "ACCESS",
             "port_speed": "100",
             "port_vlan_id": "1",
             "port_mac": "01:01:01:01:01:02",
-            "port_asign": "vlan",
+            "port_asign": "",
             "port_local": ""
         },
         "port_3": {

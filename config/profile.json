@@ -1,4 +1,10 @@
 {
-    "name": "Switch Configuration",
-    "last_config": true
+    "switch_info": {
+        "sw_name": "sw1",
+        "user_name": "sw_user",
+        "sw_mac_address": "86:73:6a:65:ca:36"
+    },
+    "profile_info": {
+        "last_config": true
+    }
 }
